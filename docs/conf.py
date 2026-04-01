@@ -4,7 +4,7 @@ import sys
 sys.path.insert(0, os.path.abspath('.'))
 
 # Project info
-project = 'Docs to Webroot'
+project = 'Web Design'
 author = 'Caryl Yasko'
 release = '1.0'
 
